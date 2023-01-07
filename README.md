@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Im_younique&fontSize=60&animation=fadeIn&desc=Front-end developer providing convenient user experience and unique services&rotate=19&fontAlign=50&fontAlignY=30&descAlign=70&descAlignY=45&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Im_younique&fontSize=60&animation=fadeIn&desc=Front-end&nbsp;developer&nbsp;providing&nbsp;convenient&nbsp;user&nbsp;experience&nbsp;and&nbsp;unique&nbsp;services&rotate=19&fontAlign=50&fontAlignY=30&descAlign=70&descAlignY=45&descSize=15" />
 
 <div align="center">
   <h3>Hello I'm Dongyoun 👋</h3>
