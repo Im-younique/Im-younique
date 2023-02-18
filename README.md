@@ -43,7 +43,7 @@
 <!--알고리즘 티어 넣기-->
 
 📫 How to reach me: <br /> Email - dyyim4725@gmail.com <br /> 
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+   <img src="https://img.shields.io/badge/im_younique-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 
 <!--
 **DongYounYim/DongYounYim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
