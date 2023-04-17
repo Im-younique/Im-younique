@@ -22,6 +22,7 @@
    <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
   <br />
   <br />
    <p> 🐣 Experience</p>
