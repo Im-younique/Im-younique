@@ -47,7 +47,7 @@
 
 <hr/>
 
-![DongYounYim's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongYounYim&count_private=true&show_icons=true&theme=cobalt)
+![DongYounYim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-younique&count_private=true&show_icons=true&theme=cobalt)
 
 <!--알고리즘 티어 넣기-->
 
