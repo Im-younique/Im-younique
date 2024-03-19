@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Hello I'm Dongyoun 👋</h3>
-  <p>안녕하세요! 편리한 사용경험과 차별화된 서비스를 제공하는 프론트엔드 개발자입니다.</p>
+  <p>안녕하세요! 편리한 사용경험과 차별화로 세상을 윤택하게 하는 프론트엔드 개발자입니다.</p>
   <p>현재는 공부 중이고, 프론트와 백엔드 모두 관심있는 열정 MAX 신입 개발자입니다.</p>
   <a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongYounYim&count_bg=%232A2899&title_bg=%23AA4545&icon=&icon_color=%23954C4C&title=hits&edge_flat=false"/></a>
   <br/>
