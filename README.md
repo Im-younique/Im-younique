@@ -3,7 +3,7 @@
 <div align="center">
   <h3>Hello I'm Dongyoun 👋</h3>
   <p>안녕하세요! 편리한 사용경험과 차별화로 세상을 윤택하게 하는 프론트엔드 개발자입니다.</p>
-  <p>현재는 공부 중이고, 프론트와 백엔드 모두 관심있는 열정 MAX 신입 개발자입니다.</p>
+  <p>폭 넓은 지식을 바탕으로 동료들과 협업하고 제 분야의 최고 스페셜리스트가 되고자 합니다.</p>
   <a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongYounYim&count_bg=%232A2899&title_bg=%23AA4545&icon=&icon_color=%23954C4C&title=hits&edge_flat=false"/></a>
   <br/>
   <hr/>
@@ -20,22 +20,23 @@
   <br />
   <br />
   <p>✏️ Studying</p>
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=LangChain&logoColor=white"/>
   <br />
   <br />
    <p> 🐣 Experience</p>
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
    <br/>
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
    <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white"/>
    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>
    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/>
@@ -43,6 +44,7 @@
    <img src="https://img.shields.io/badge/Figma-F42E1E?style=flat&logo=Figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
    <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </div>
 
 <hr/>
